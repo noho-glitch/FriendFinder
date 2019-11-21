@@ -1,0 +1,11 @@
+.container {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+body {
+font-family: 'Muli', sans-serif; 
+background-image: url("../images/background1.jpg");
+background-size: contain;
+color: white;
+}
