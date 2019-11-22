@@ -1,0 +1,23 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "A mock dating website where users answer a short survey and are compatibility matched to our database.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noho-glitch/FriendFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noho-glitch/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/noho-glitch/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
