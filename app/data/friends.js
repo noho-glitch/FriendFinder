@@ -1,5 +1,5 @@
 
-var characters = [
+var friends = [
     {
       name: "Tobias Funke",
       photo:"../assets/images/tobias.png",
@@ -55,3 +55,5 @@ var characters = [
       scores:[5,5,5,5,5,5,5,5,5,5]
     },
   ];
+
+  module.exports = friends;
